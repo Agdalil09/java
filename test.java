@@ -9,7 +9,7 @@ public int get_mois()
 {return (mois);}
 public int get_annee()
 {return (annee);}
-
+System.out.println("");
 public void set_jour(int j)
 {jour=j;}
 public void set_mois(int m)
